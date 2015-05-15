@@ -1,0 +1,50 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+
+}
+
+footer {
+	
+    margin: 50px 0;
+}
+
+.form-inline .form-group-tech input {
+    width: 700px;
+}
+
+.glyphicon-cd {
+    font-size: 75px;
+}
+/* TITLE 
+div.jp-title{
+	position:relative; z-index:0;
+	margin:0; padding:0;
+	height:25px; width:auto;
+	text-align:center;
+	background:#333;
+	
+	color:#FFF;
+	}
+div.jp-title ul,
+div.jp-playlist ul{
+	list-style:none;
+	margin:0; padding:0;
+	}
+div.jp-audio div.jp-title li,
+div.jp-video div.jp-title li{
+	position:absolute;
+	left:60px; right:60px;
+	padding:0; margin:0;
+	height:25px; width:auto;
+	
+	text-align:center;
+	line-height:25px;
+	overflow:hidden;
+	}
+*/

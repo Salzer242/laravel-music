@@ -1,0 +1,33 @@
+{
+	"apiVersion":"2.1",
+	"data":
+		{
+			"id":"Djp2aatn8Eg",
+			"uploaded":"2015-02-19T02:54:39.000Z",
+			"updated":"2015-03-27T14:49:38.000Z",
+			"uploader":"haivn1102",
+			"category":"Entertainment",
+			"title":"QTV cầm tướng tủ \"Jax\" đường trên [17.2.2015]","description":"Jax huyền thoại của QTV :) \n▶ Clip mới nhất: http://goo.gl/hkTZ7u\n▶ Theo dõi: http://goo.gl/OUke0D\n▶ Fanpage: http://goo.gl/LzQzJZ",
+			"thumbnail":
+				{"sqDefault":"http://i.ytimg.com/vi/Djp2aatn8Eg/default.jpg",
+				"hqDefault":"http://i.ytimg.com/vi/Djp2aatn8Eg/hqdefault.jpg"},
+			"player":
+				{"default":"http://www.youtube.com/watch?v=Djp2aatn8Eg&feature=youtube_gdata_player",
+				"mobile":"http://m.youtube.com/details?v=Djp2aatn8Eg"},
+			"content":
+				{"5":"http://www.youtube.com/v/Djp2aatn8Eg?version=3&f=videos&app=youtube_gdata",
+				"1":"rtsp://r5---sn-a5m7zu76.c.youtube.com/CiILENy73wIaGQlI8GeraXY6DhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp",
+				"6":"rtsp://r5---sn-a5m7zu76.c.youtube.com/CiILENy73wIaGQlI8GeraXY6DhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp"},
+			"duration":2287,
+			"aspectRatio":"widescreen",
+			"rating":4.5555553,
+			"likeCount":"32",
+			"ratingCount":36,
+			"viewCount":24494,
+			"favoriteCount":0,
+			"commentCount":16,
+			"accessControl":
+				{"comment":"allowed","commentVote":"allowed","videoRespond":"moderated","rate":"allowed","embed":"allowed","list":"allowed","autoPlay":"allowed","syndicate":"allowed"
+				}
+		}
+}
